@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:ThunderCore
+N;CHARSET=UTF-8:ThunderCore;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;Evelyn Ave;Sunnyvale;CA;94086;USA
+EMAIL:social@thundertoken.com
+ORG;CHARSET=UTF-8:ThunderCore
+URL:http://thundercore.com
+END:VCARD
